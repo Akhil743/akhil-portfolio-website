@@ -1,0 +1,18 @@
+{
+    "name": "akhil-portfolio",
+    "version": "1.0.0",
+    "description": "Personal portfolio website for Akhil S - AI Product Manager",
+    "main": "index.html",
+    "scripts": {
+        "start": "open index.html",
+        "deploy": "git add . && git commit -m 'Update portfolio' && git push origin main"
+    },
+    "keywords": [
+        "portfolio",
+        "AI",
+        "product management",
+        "healthcare tech"
+    ],
+    "author": "Akhil S",
+    "license": "MIT"
+}

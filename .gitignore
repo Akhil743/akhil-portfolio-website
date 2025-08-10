@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Sensitive files
+config.js
+.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# Personal notes
+notes.md
+todo.md
